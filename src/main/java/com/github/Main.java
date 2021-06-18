@@ -1,5 +1,5 @@
 package com.github;
-
+//v2
 public class Main {
     public static void main(String[] args) {
         float rez  = math(1.12f, 5.55f, 9.3f, 10.777f); System.out.println("Результат " + rez);
